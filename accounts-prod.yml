@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related PROD APIs "
   contactDetails:
     name: "Accounts Prod"
-    email: "{cipher}f83ac5a34ba5f4657ae8e863c063c1b69efb4d23d0c431eb134f8d1b3ed0823dee0a4b627d091455b4c6600353a3682c"
+    email: "{cipher}62f5ff2a7248717335de1de9c33f152e7e3c5e5849790e54d61ea43462dc21988fb250bfc7d2650d9315d95b59133767"
   onCallSupport:
     - (111) 555-1234
     - (111) 523-1345
