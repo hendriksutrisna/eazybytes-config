@@ -7,5 +7,5 @@ loans:
     name: "Loans Prod"
     email: "johndoe@gmail.com"
   onCallSupport:
-    - (777) 555-1234
-    - (777) 523-1345
+    - (111) 555-1234
+    - (111) 523-1345
